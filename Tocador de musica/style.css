@@ -1,3 +1,8 @@
+button{
+    background-color: inherit;
+    color: inherit;
+    border: none;
+}
 body{
     background-image:linear-gradient(
     rgb(59, 88, 93),
