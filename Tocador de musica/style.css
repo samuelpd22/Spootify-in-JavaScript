@@ -32,6 +32,7 @@ body{
 }
 .botton {
     font-size: 1.5em;
+    cursor: pointer;
 }
 .button-navigation {
     font-size: 3em;
@@ -72,4 +73,7 @@ body{
 }
 #progress-container {
     padding-bottom: 1em;
+}
+.button-active {
+    color: rgb(0, 128, 62);
 }
